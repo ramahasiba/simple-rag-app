@@ -24,7 +24,7 @@ A simple **Retrieval-Augmented Generation (RAG)** demo built from scratch using 
 
 ## 🚀 Run It
 
-Just run the notebook top-to-bottom. No API keys, no GPUs required (optional if available).
+Just download and then run the "Rama_Hasiba_Model_3_Section_1_Homework" notebook top-to-bottom. No API keys, no GPUs required (optional if available).
 
  
 
